@@ -1,4 +1,4 @@
-# Layout Generator
+# SiteArchitect
 
 Python script that generates multiple feasible layouts for two tower types on a 200 m × 140 m site while enforcing spacing, setback, plaza, and neighbor-mix rules. Plots now annotate inter-building distances and highlight violations in red.
 
