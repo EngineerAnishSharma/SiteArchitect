@@ -1,0 +1,6 @@
+layout_id,total_buildings,tower_a_count,tower_b_count,total_area_m2,valid,rule_boundary,rule_plaza,rule_spacing,rule_neighbor_mix
+1,12,7,5,6200.0,True,True,True,True,True
+2,12,7,5,6200.0,True,True,True,True,True
+3,12,7,5,6200.0,True,True,True,True,True
+4,12,6,6,6000.0,True,True,True,True,True
+5,12,3,9,5400.0,True,True,True,True,True
